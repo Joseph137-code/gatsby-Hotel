@@ -14,7 +14,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
 ## 🚀 Quick start
 
-## Live Demo
+## Live Demo: 
 https://loving-mahavira-78ce9f.netlify.app/
 
 1.  **Create a Gatsby site.**
